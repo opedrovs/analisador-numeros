@@ -1,3 +1,4 @@
+from analisador.dados.menu import *
 from analisador.dados.ferramentas import *
 
 
